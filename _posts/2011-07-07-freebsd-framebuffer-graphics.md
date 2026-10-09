@@ -3,7 +3,7 @@ layout: post
 tags: [C]
 title: FreeBSD Framebuffer Graphics
 ---
-I just pushed a [new project](https://github.com/p120ph37/libfb-bsd) up to
+I just pushed a [new project](https://github.com/aaronmeriwether/libfb-bsd) up to
 GitHub. It's the beginning of a console
 [framebuffer](http://en.wikipedia.org/wiki/Framebuffer) graphics library for
 FreeBSD.  While Linux has [SVGALib](http://www.svgalib.org/), and BSD used to

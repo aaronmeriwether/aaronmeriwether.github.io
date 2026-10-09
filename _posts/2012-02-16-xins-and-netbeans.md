@@ -112,7 +112,7 @@ Now XINS and NetBeans are installed and configured and you can start a new proje
 -   Before step 4:
     +   Now that you have the skeleton of an API created, you can configure it
         so the rest of the steps can be done in the IDE.
-    +   Unpack [these files](https://github.com/p120ph37/XINS-NB/zipball/master)
+    +   Unpack [these files](https://github.com/aaronmeriwether/XINS-NB/zipball/master)
         into your apis/myapi directory, and then open that directory in NetBeans
         as a project.
 -   Right-click on the nbbuild.xml file and select the "update-nb-files" target.

@@ -21,17 +21,17 @@ links: {
     },
     Repos: {
         "https://github.com/": {
-            p120ph37/blowfish.js: Blowfish with CBC in JS,
-            p120ph37/node-jsdoc-toolkit: JSDoc port for Node.js,
-            p120ph37/darwin-racoon-cisco-cert-fix: Patched OSX IPSEC VPN client,
-            p120ph37/libfb-bsd: Framebuffer access for FreeBSD,
-            p120ph37/SoftGC: Application-layer GC for Java,
-            p120ph37/java-1.7.0-sun-compat: JPackage compat for Sun JDK7,
+            aaronmeriwether/blowfish.js: Blowfish with CBC in JS,
+            aaronmeriwether/node-jsdoc-toolkit: JSDoc port for Node.js,
+            aaronmeriwether/darwin-racoon-cisco-cert-fix: Patched OSX IPSEC VPN client,
+            aaronmeriwether/libfb-bsd: Framebuffer access for FreeBSD,
+            aaronmeriwether/SoftGC: Application-layer GC for Java,
+            aaronmeriwether/java-1.7.0-sun-compat: JPackage compat for Sun JDK7,
         },
     },
     Links: {
         "": {
-            "https://github.com/p120ph37": GitHub,
+            "https://github.com/aaronmeriwether": GitHub,
             "https://www.facebook.com/awirtz": Facebook,
             "https://www.linkedin.com/in/meriwether": LinkedIn,
             "https://resume.ameriwether.com/": Resumé,
